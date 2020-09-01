@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\ClasesBase\obj\Debug\ClasesBase.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\ClasesBase\obj\Debug\ClasesBase.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\ClasesBase\obj\Debug\ClasesBase.pdb

@@ -58,3 +58,5 @@ C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\Vistas\obj\Debug\Vist
 C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
 C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
 C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Gabriel\Desktop\LPOOII\LPOII-2020\LPOOII-GRUPO-04\Vistas\bin\Debug\ClasesBase.pdb
